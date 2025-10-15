@@ -46,7 +46,7 @@ The Regional Sales Analysis Project examines sales performance across regions, p
 
 1. Clone the repository:
 
-    - git clone https://github.com/chadwich0804/regional-sales-analysis.git
+    - git clone https://github.com/chadwich0804/Regional-Sales-Analysis-Project.git
 
 2. Navigate to the project directory:
 
